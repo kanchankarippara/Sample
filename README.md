@@ -1,2 +1,2 @@
 # Sample
-My first project
+This is a beginners project.
