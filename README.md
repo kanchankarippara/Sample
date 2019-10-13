@@ -1,2 +1,2 @@
 # Hello World
-This is a beginners project.
+This is an alternative for the master project.
